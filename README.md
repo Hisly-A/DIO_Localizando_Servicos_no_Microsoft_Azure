@@ -63,14 +63,14 @@ Ao clicar nas categorias, são demonstradas ao lado as opções disponíveis ref
 </div>
 <br>
 
-Os produtos que aparecem com a tag **Versão Prévia** ao lado ainda estão sendo avaliados ou em fase de teste:
+Os serviços que aparecem com a tag **Versão Prévia** ao lado ainda estão sendo avaliados ou em fase de teste:
 
 <div align="center">
     <img width="700" title="AZ08" src="https://github.com/Hisly-A/DIO_Localizando_Servicos_no_Microsoft_Azure/blob/main/Images/AZ-01%2008.jpg"/>
 </div>
 <br>
 
-Já os produtos com a tag **Parceiro** são fornecidos por parceiros da Microsoft:
+Já os serviços com a tag **Parceiro**, como o próprio nome diz, são fornecidos por parceiros da Microsoft:
 
 <div align="center">
     <img width="700" title="AZ09" src="https://github.com/Hisly-A/DIO_Localizando_Servicos_no_Microsoft_Azure/blob/main/Images/AZ-01%2009.jpg"/>
