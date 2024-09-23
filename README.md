@@ -1,4 +1,4 @@
-# DIO_Localizando_Servicos_no_Microsoft_Azure
+# DIO - Localizando Servicos no Microsoft Azure
 Localizando Serviços por Categoria no Microsoft Azure
 
 
@@ -11,7 +11,7 @@ Localizando Serviços por Categoria no Microsoft Azure
 
 ## Criação da conta no Azure
 
-Abra o portal do [`Azure`](https://portal.azure.com), clique em ```Comece a usar o Azure```, e informe seus dados para criar uma conta.
+Abra o portal do [`Azure`](https://portal.azure.com), clique em `Comece a usar o Azure`, e informe seus dados para criar uma conta.
 
 <div align="center">
     <img width="700" title="AZ01" src="https://github.com/Hisly-A/DIO_Localizando_Servicos_no_Microsoft_Azure/blob/main/Images/AZ-01%2001.jpg"/>
